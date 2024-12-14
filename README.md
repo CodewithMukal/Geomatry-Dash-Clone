@@ -7,9 +7,13 @@ Hope that you like it.
 Will introduce new things with updates too.
 
 Current version - 69.420.00(Added on 15/12/2024)
+
+
   Content:
   1. 3 Short Levels(All unlocked)
   2. Level System
+
+
 Next Update Teaser:
   1. Portals to change gamemode
   2. Jumppads
